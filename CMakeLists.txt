@@ -13,6 +13,7 @@
 # - Explore PUBLIC_HEADER property: https://cmake.org/cmake/help/latest/prop_tgt/PUBLIC_HEADER.html
 
 
+
 # CMake Setup
 cmake_minimum_required(VERSION 3.26)
 list(APPEND CMAKE_MESSAGE_INDENT "[StreamFX] ")
